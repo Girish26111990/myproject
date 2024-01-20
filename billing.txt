@@ -2,3 +2,4 @@ amount
 discount
 payment
 mode
+receipt
